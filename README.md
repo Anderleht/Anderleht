@@ -20,8 +20,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
 [![Axios][Axios-badge]][Axios-url]
 [![onChange][onChange-badge]][onChange-url]
 [![yup][yup-badge]][yup-url]
