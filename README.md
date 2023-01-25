@@ -43,7 +43,7 @@
 
 ## Contact
 
-Email: anderleht00712@gmail.com
+### 📧Email: anderleht00712@gmail.com
 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/thelrednA)
 
