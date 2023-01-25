@@ -1,11 +1,18 @@
 #Personal Information:
-##Name: Artem
-##Age: 22
-#Education: 
-##Studying Applied Informatics at Kuban State Agrarian University
-#Additional Courses: 
-##Taking courses on Hexlet 
-##Skills 
+
+Name: Artem
+Age: 22
+#Education:
+
+Studying Applied Informatics at Kuban State Agrarian University
+
+#Additional Courses:
+
+Taking courses on Hexlet
+
+##Skills
+
+
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
@@ -29,10 +36,16 @@
 [yup-badge]: https://img.shields.io/badge/yup-gray?style=flat&logoColor=white
 [yup-url]: https://github.com/sindresorhus/on-change
  
-#Projects 
-##[Difference calculator](https://github.com/Anderleht/frontend-project-46)
-##[Brain-calc game](https://github.com/Anderleht/frontend-project-44)
-#Contact 
-##Email: anderleht00712@gmail.com
+ 
+ 
+#Projects
+
+[Difference calculator](https://github.com/Anderleht/frontend-project-46)
+[Brain-calc game](https://github.com/Anderleht/frontend-project-44)
+
+#Contact
+
+Email: anderleht00712@gmail.com
+
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/thelrednA)
 
