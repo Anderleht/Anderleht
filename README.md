@@ -8,7 +8,7 @@
 
 ## Additional Courses:
 
-### Taking courses on Hexlet
+### Taking courses 'frontend developer' on Hexlet
 
 ## Skills
 
