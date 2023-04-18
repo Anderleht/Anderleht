@@ -21,18 +21,10 @@
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 [![Axios][Axios-badge]][Axios-url]
-[![onChange][onChange-badge]][onChange-url]
-[![yup][yup-badge]][yup-url]
 
 
 [Axios-badge]: https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=i18next&logoColor=white
 [Axios-url]: https://axios-http.com
-
-[onChange-badge]: https://img.shields.io/badge/onChange-gray?style=flat&logoColor=white
-[onChange-url]: https://github.com/jquense/yup
-
-[yup-badge]: https://img.shields.io/badge/yup-gray?style=flat&logoColor=white
-[yup-url]: https://github.com/sindresorhus/on-change
  
  
  
